@@ -13,3 +13,4 @@ https://habr.com/ru/post/499370/
 https://css-tricks.com/centering-css-complete-guide/
 https://medium.com/web-standards/front-end-interview-handbook-html-ab5a9b64755f
 https://www.zfort.com.ua/blog/category/digest
+https://clearlydecoded.com/
